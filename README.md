@@ -3,7 +3,7 @@ Motion Retargeting Video Subjects, Modified Version by Justin John
 
 **Official Links**
 - **OpenPose Notebook**: [Link](https://colab.research.google.com/github/justinjohn0306/EverybodyDanceNow-Colab/blob/main/OpenPose.ipynb)
-- **Everybody Dance Now**: [Link](https://colab.research.google.com/github/justinjohn0306/EverybodyDanceNow-Colab/blob/main/Everybody%20Dance%20Now.ipynb)
+- **Everybody Dance Now**: [Link](https://colab.research.google.com/github/justinjohn0306/EverybodyDanceNow-Colab/blob/main/Everybody_Dance_Now_Colab_V1_1.ipynb)
 
 # Everybody Dance Now
 This repo contains some bug fixes for the data preprocessing and inferencing scripts , as well a porting the code to work with Python 3, as before some code was not working properly. I also got the code to run on Google Colab, as most poeple don't have access to GPUs with enough VRAM.
