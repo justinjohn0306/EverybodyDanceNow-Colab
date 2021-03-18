@@ -1,7 +1,7 @@
 # EverybodyDanceNow-Colab
 Motion Retargeting Video Subjects, Modified Version by Justin John
 # Everybody Dance Now
-This repo contains some bug fixes for the data preprocessing and inferencing scripts , as well a porting the code to work with Python 3, as before some code was not working properly. I also got the code to run on Google Colab, as most poeple don't have access to GPUs with enough Vram.
+This repo contains some bug fixes for the data preprocessing and inferencing scripts , as well a porting the code to work with Python 3, as before some code was not working properly. I also got the code to run on Google Colab, as most poeple don't have access to GPUs with enough VRAM.
 Currently, most of the code work on Google Colab, but the pose normalization code does not work, most of the other scripts are fully functioning.
 I'm working on fixing it and/or replacing it with a completely new script.
 
